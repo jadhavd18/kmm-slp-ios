@@ -1,3 +1,2 @@
 # shared
-
-A description of this package.
+This repo contains StoreListing implemented artifact in Kotlin multiplatform. 
